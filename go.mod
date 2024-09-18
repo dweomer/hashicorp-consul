@@ -33,15 +33,15 @@ require (
 	github.com/hashicorp/errwrap v1.0.0
 	github.com/hashicorp/go-bexpr v0.1.2
 	github.com/hashicorp/go-checkpoint v0.5.0
-	github.com/hashicorp/go-cleanhttp v0.5.1
+	github.com/hashicorp/go-cleanhttp v0.5.2
 	github.com/hashicorp/go-connlimit v0.3.0
 	github.com/hashicorp/go-discover v0.0.0-20200501174627-ad1e96bde088
-	github.com/hashicorp/go-hclog v0.14.1
+	github.com/hashicorp/go-hclog v1.6.3
 	github.com/hashicorp/go-memdb v1.3.0
 	github.com/hashicorp/go-msgpack v0.5.5
 	github.com/hashicorp/go-multierror v1.1.0
 	github.com/hashicorp/go-raftchunking v0.6.1
-	github.com/hashicorp/go-retryablehttp v0.6.7 // indirect
+	github.com/hashicorp/go-retryablehttp v0.7.7 // indirect
 	github.com/hashicorp/go-sockaddr v1.0.2
 	github.com/hashicorp/go-syslog v1.0.0
 	github.com/hashicorp/go-uuid v1.0.2
@@ -78,14 +78,14 @@ require (
 	github.com/rboyer/safeio v0.2.1
 	github.com/ryanuber/columnize v2.1.0+incompatible
 	github.com/shirou/gopsutil/v3 v3.20.10
-	github.com/stretchr/testify v1.6.1
+	github.com/stretchr/testify v1.7.2
 	go.opencensus.io v0.22.0 // indirect
 	go.uber.org/goleak v1.1.10
 	golang.org/x/crypto v0.0.0-20200930160638-afb6bcd081ae
 	golang.org/x/net v0.0.0-20200930145003-4acb6c075d10
 	golang.org/x/oauth2 v0.0.0-20190604053449-0f29369cfe45
 	golang.org/x/sync v0.0.0-20201020160332-67f06af15bc9
-	golang.org/x/sys v0.0.0-20201024232916-9f70ab9862d5
+	golang.org/x/sys v0.20.0
 	golang.org/x/text v0.3.3 // indirect
 	golang.org/x/time v0.0.0-20200630173020-3af7569d3a1e
 	golang.org/x/tools v0.0.0-20200513154647-78b527d18275 // indirect
